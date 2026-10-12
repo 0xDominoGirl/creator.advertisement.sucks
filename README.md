@@ -1,6 +1,6 @@
-# Creator
+# Creator tool
 
-**Discover the most influential voices.**
+**A tool for ranking creators.**
 
 A creator discovery app built by [0xDominoGirl](https://github.com/0xDominoGirl), bringing profiles, niches, service rates and community rankings into one place.
 
@@ -29,7 +29,7 @@ Voting uses verified account identity and a database uniqueness constraint. Feed
 
 ## Status
 
-Work in progress, currently in a private preview. Paid listings, production profile editing and shared reviews still need completion. The screenshots use fictional sample profiles and demonstration counts; they do not represent real customers or traction. The directory screenshot predates the later Feedback navigation addition.
+Work in progress, currently in a private preview. Production profile editing and shared reviews still need completion. The screenshots use fictional sample profiles and demonstration counts; they do not represent real customers or traction. The directory screenshot predates the later Feedback navigation addition.
 
 The intended domain is `creator.advertisement.sucks`. Creator is separate from the advertisement.sucks vending-machine project.
 
